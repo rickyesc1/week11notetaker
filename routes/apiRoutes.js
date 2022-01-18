@@ -1,3 +1,5 @@
+// **FOR GRADERS** : this homework assignment was completed as a group in class, i apologize for submitting so late.  
+// neccessary routes are included, as well as the bonus DELETE route
 const router = require('express').Router();
 const store = require('../db/store');
 

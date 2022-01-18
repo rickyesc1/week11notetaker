@@ -1,3 +1,4 @@
+// used to handle functions on the front end , don't believe any updates need to be made on last push
 let noteTitle;
 let noteText;
 let saveNoteBtn;

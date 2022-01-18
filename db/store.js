@@ -1,4 +1,6 @@
+// last and final checks to ensure that all files work 
 const util = require('util');
+
 const fs = require('fs');
 
 // This package will be used to generate our unique ids. https://www.npmjs.com/package/uuid
